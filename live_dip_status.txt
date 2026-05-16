@@ -1,0 +1,62 @@
+======================================================================
+MULTI-CRYPTO 5M DIP BUYER — LIVE READY
+Generated: 2026-05-16 14:15:27 UTC
+======================================================================
+
+🛡️ RISK STATUS
+----------------------------------------
+ Daily P&L: $+464.2970 (limit: $-20.0)
+ Daily trades: 195/500
+ Consecutive loss: 0/10
+
+📊 OVERALL PERFORMANCE
+----------------------------------------
+ Uptime: 70281 seconds
+ Total sessions: 940
+ Winning sessions: 129
+ Losing sessions: 31
+ Win rate: 13.7%
+
+ Total trades: 271
+ Total profits: $+698.9960
+ Total losses: $-25.0530
+ TRUE NET P&L: $+673.9430
+ Avg per session: $+0.7170
+
+📈 PER-CRYPTO BREAKDOWN
+----------------------------------------
+ SOL  | Trades:80 | P&L:$+270.6890 | Daily:60/200 | Trend:CHOPPY      
+ XRP  | Trades:72 | P&L:$+228.5700 | Daily:51/200 | Trend:CHOPPY      
+ DOGE | Trades:49 | P&L:$+76.7910 | Daily:33/200 | Trend:CHOPPY      
+ HYPE | Trades:70 | P&L:$+97.8930 | Daily:51/200 | Trend:CHOPPY      
+
+🎯 ACTIVE SESSIONS
+----------------------------------------
+ SOL  | updown-5m-1778940900 | 42s
+ UP:0.4300 DOWN:0.5900 | Open:0 Wins:0 Losses:0 | P&L:$+0.0000
+ XRP  | updown-5m-1778940900 | 41s
+ UP:0.5100 DOWN:0.5000 | Open:0 Wins:0 Losses:0 | P&L:$+0.0000
+ DOGE | updown-5m-1778940900 | 41s
+ UP:0.5900 DOWN:0.5400 | Open:0 Wins:0 Losses:0 | P&L:$+0.0000
+ HYPE | updown-5m-1778940900 | 41s
+ UP:0.4800 DOWN:0.5600 | Open:0 Wins:0 Losses:0 | P&L:$+0.0000
+
+📋 RECENT SESSIONS (last 15)
+----------------------------------------
+ ➖ XRP  updown-5m-1778939700 | CHOPPY       | Trades:0 | NET:$+0.0000
+ ➖ DOGE updown-5m-1778939700 | CHOPPY       | Trades:0 | NET:$+0.0000
+ ➖ HYPE updown-5m-1778939700 | CHOPPY       | Trades:0 | NET:$+0.0000
+ ✅ SOL  updown-5m-1778940000 | CHOPPY       | Trades:1 | NET:$+3.8820
+ ➖ XRP  updown-5m-1778940000 | CHOPPY       | Trades:0 | NET:$+0.0000
+ ➖ DOGE updown-5m-1778940000 | CHOPPY       | Trades:0 | NET:$+0.0000
+ ➖ HYPE updown-5m-1778940000 | CHOPPY       | Trades:0 | NET:$+0.0000
+ ➖ SOL  updown-5m-1778940300 | CHOPPY       | Trades:0 | NET:$+0.0000
+ ➖ XRP  updown-5m-1778940300 | CHOPPY       | Trades:0 | NET:$+0.0000
+ ➖ DOGE updown-5m-1778940300 | CHOPPY       | Trades:0 | NET:$+0.0000
+ ➖ HYPE updown-5m-1778940300 | CHOPPY       | Trades:0 | NET:$+0.0000
+ ➖ SOL  updown-5m-1778940600 | CHOPPY       | Trades:0 | NET:$+0.0000
+ ➖ XRP  updown-5m-1778940600 | CHOPPY       | Trades:0 | NET:$+0.0000
+ ➖ DOGE updown-5m-1778940600 | CHOPPY       | Trades:0 | NET:$+0.0000
+ ➖ HYPE updown-5m-1778940600 | CHOPPY       | Trades:0 | NET:$+0.0000
+
+======================================================================
